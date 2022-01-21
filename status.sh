@@ -942,7 +942,7 @@ Update_Shell(){
 		rm -rf /etc/init.d/status-server
 		Service_Server_Status_server
 	fi
-	wget -N --no-check-certificate "https://github.com/admnn/ServerStatus-Toyo/raw/master/doubiscripts/status.sh" && chmod +x status.sh
+	wget -N --no-check-certificate "https://github.com/admnn/ServerStatus-Toyo/raw/master/status.sh" && chmod +x status.sh
 	echo -e "脚本已更新为最新版本[ ${sh_new_ver} ] !(注意：因为更新方式为直接覆盖当前运行的脚本，所以可能下面会提示一些报错，无视即可)" && exit 0
 }
 menu_client(){
