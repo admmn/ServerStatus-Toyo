@@ -6,7 +6,7 @@ and with doubi.zip integrated
 
 
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/admnn/ServerStatus-Toyo/master/status.sh && chmod +x status.sh
+wget -N --no-check-certificate https://github.com/admnn/ServerStatus-Toyo/raw/master/status.sh && chmod +x status.sh
 ```
 
 下载脚本后，根据需要安装客户端或者服务端：
