@@ -17,7 +17,7 @@ bash status.sh c
 # 显示服务端管理菜单
 bash status.sh s
 ```
-甲骨文安装塔打不开，端口未放宝行解决办法
+甲骨文安装塔打不开，端口未放解决办法
 ``` bash
 apt-get purge iptables
 ```
