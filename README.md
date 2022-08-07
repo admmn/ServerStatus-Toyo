@@ -20,6 +20,7 @@ bash status.sh s
 甲骨文安装塔打不开，端口未放宝行解决办法
 
 apt-get purge iptables
+
 执行此命令，y开始安装
 
 重启即可解决，reboot
